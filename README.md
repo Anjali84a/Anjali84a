@@ -17,12 +17,14 @@ software development, data analytics, problem solving, and AI.
 ### 💻 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://cdn.simpleicons.org/pandas" height="48" />
   <img src="https://cdn.simpleicons.org/numpy" height="48" />
   <img src="https://cdn.simpleicons.org/matplotlib" height="48" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+<p>
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" width="50" height="50"/>
