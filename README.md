@@ -12,25 +12,30 @@ interested in software development, data analysis and problem solving.
 - 📊 Interested in Data Analytics and Software Development
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 ### Languages
-- Python
-- C++
-- C
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
+</p>
 
 ### Data & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Excel
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/pandas" height="48"/>
+  <img src="https://cdn.simpleicons.org/numpy" height="48"/>
+  <img src="https://cdn.simpleicons.org/matplotlib" height="48"/>
+</p>
 
-### Core Computer Science
-- Data Structures & Algorithms
-- OOP
-- DBMS
-- Computer Networks
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### Web
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 - HTML5
 - CSS3
 
