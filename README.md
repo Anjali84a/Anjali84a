@@ -14,34 +14,15 @@ software development, data analytics, problem solving, and AI.
 
 ## 🛠️ Skills
 
-### 💻 Programming Languages
-<p>
+### 💻 Languages and Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
-
-### 🗄️ Database & SQL
-<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-
-### 📊 Data & Analytics
-<p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://cdn.simpleicons.org/pandas" height="48" />
   <img src="https://cdn.simpleicons.org/numpy" height="48" />
   <img src="https://cdn.simpleicons.org/matplotlib" height="48" />
-</p>
-
-
-### 🌐 Web Technologies
-<p>
   <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-
-### Tools & Platforms
-<p align="left">
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" width="50" height="50"/>
