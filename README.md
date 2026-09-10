@@ -40,11 +40,16 @@ software development, data analytics, problem solving, and AI.
 </p>
 
 
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+### Tools & Platforms
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="50" height="50"/>
 </p>
-
 
 ### 🤖 AI & Machine Learning
 **AI Agents (Basic) • Machine Learning • OpenCV • Generative AI**
@@ -52,7 +57,7 @@ software development, data analytics, problem solving, and AI.
 
 ### 🧠 Core Computer Science
 **Data Structures & Algorithms • OOP • DBMS • Computer Networks**
-**MySQL Workbench • Google Colab • Excel**
+
 
 ---
 
@@ -89,19 +94,15 @@ software development, data analytics, problem solving, and AI.
 ## 💻 DSA & LeetCode
 
 ### 🏆 400+ LeetCode Problems
-
-I regularly practice Data Structures and Algorithms to improve my
+I practice Data Structures and Algorithms to improve my
 problem-solving and coding skills.
 
 **Topics I Practice:**
 
 `Arrays` `Strings` `Linked Lists` `Stacks` `Queues`  
-`Trees` `Recursion` `Dynamic Programming` `Sorting` `Searching`
+`Recursion` `Dynamic Programming` `Sorting` `Searching`
 
 ### LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-
 ---
 
 
@@ -129,7 +130,6 @@ problem-solving and coding skills.
 ## 🔗 Connect With Me
 
 <p align="left">
-
 <a href="https://github.com/Anjali84a">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -137,9 +137,8 @@ problem-solving and coding skills.
 <a href="https://linkedin.com/in/anjali84a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thankyou !
