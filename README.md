@@ -83,18 +83,6 @@ problem-solving and coding skills.
 `Arrays` `Strings` `Linked Lists` `Stacks` `Queues`  
 `Recursion` `Dynamic Programming` `Sorting` `Searching`
 
-### LeetCode
----
-
-
-## 📜 Certifications
-
-- **Oracle Agentic AI Foundations** – Oracle University
-- **Data Science and Analytics** – HP LIFE
-- **Introduction to MS Excel** – Microsoft
-- **Data Analytics Job Simulation** – Deloitte Australia, Forage
-- **Data Analytics** – Code with Harry
-
 ---
 
 ## 📈 Currently Learning
