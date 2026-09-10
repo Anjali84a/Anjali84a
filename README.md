@@ -10,27 +10,22 @@ software development, data analytics, problem solving, and AI.
 - 🤖 Exploring AI Agents and Generative AI
 - 🗄️ Practicing SQL, DBMS and data analysis
 - 🚀 Currently working on PRISM – Traffic Signal Optimization
-
 ---
 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 ### 🗄️ Database & SQL
-
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**SQL • DBMS • RDBMS • CRUD • Stored Procedures**
 
 ### 📊 Data & Analytics
-
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://cdn.simpleicons.org/pandas" height="48" />
@@ -38,28 +33,25 @@ software development, data analytics, problem solving, and AI.
   <img src="https://cdn.simpleicons.org/matplotlib" height="48" />
 </p>
 
-**Pandas • NumPy • Matplotlib • Excel • Data Cleaning • Data Analysis**
 
 ### 🌐 Web Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🤖 AI & Machine Learning
-
-**AI Agents (Basic) • Machine Learning • OpenCV • Generative AI**
-
-### 🧠 Core Computer Science
-
-**Data Structures & Algorithms • OOP • DBMS • Computer Networks**
 
 ### 🔧 Tools & Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+
+### 🤖 AI & Machine Learning
+**AI Agents (Basic) • Machine Learning • OpenCV • Generative AI**
+
+
+### 🧠 Core Computer Science
+**Data Structures & Algorithms • OOP • DBMS • Computer Networks**
 **MySQL Workbench • Google Colab • Excel**
 
 ---
@@ -112,34 +104,6 @@ problem-solving and coding skills.
 
 ---
 
-## 🎓 Education
-
-### Pranveer Singh Institute of Technology, Kanpur
-
-**B.Tech – Computer Science & Artificial Intelligence**  
-2023 – Present
-
-**76.78% till 6th semester**
-
----
-
-### Adarsh Vidya Mandir Senior Secondary School, Unnao
-
-**Class XII**  
-2021 – 2022
-
-**83.17%**
-
----
-
-### Dr. P R Wasson Public School, Kanpur
-
-**Class X**  
-2019 – 2020
-
-**70.6%**
-
----
 
 ## 📜 Certifications
 
