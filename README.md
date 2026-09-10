@@ -15,7 +15,7 @@ software development, data analytics, problem solving, and AI.
 ## 🛠️ Skills
 
 ### 💻 Languages and Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c" />
   <img src="https://skillicons.dev/icons?i=html,css" />
   <img src="https://skillicons.dev/icons?i=mysql" />
