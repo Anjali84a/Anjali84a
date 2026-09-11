@@ -11,7 +11,7 @@
   </a>
   
   <a href="https://leetcode.com/u/Anjali84a/">
-    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -36,6 +36,10 @@
   </a>
   <a href="https://linkedin.com/in/anjali84a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+<a href="https://leetcode.com/u/Anjali84a/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo="LeetCode"/>
   </a>
 </p>
 
