@@ -1,115 +1,188 @@
-# Hi, I'm Anjali Chaurasia 👋
+<h1 align="center">Hi 👋, I'm Anjali Chaurasia</h1>
 
-### Computer Science & Artificial Intelligence Student | Data Scientist
+<h3 align="center">B.Tech CSE (AI) Student | Programmer Analyst Aspirant | Data & AI Enthusiast</h3>
 
-I'm a B.Tech Computer Science & Artificial Intelligence student with an interest in
-software development, data analytics, problem solving, and AI.
-
-- 🐍 Working with Python, C++, C and SQL
-- 📊 Interested in Data Analytics and Software Development
-- 🤖 Exploring AI Agents and Generative AI
-- 🗄️ Practicing SQL, DBMS and data analysis
-- 🚀 Currently working on PRISM – Traffic Signal Optimization
----
-
-## 🛠️ Skills
-
-### 💻 Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/pandas" height="48" />
-  <img src="https://cdn.simpleicons.org/numpy" height="48" />
-  <img src="https://cdn.simpleicons.org/matplotlib" height="48" />
+<p align="center">
+  <a href="https://github.com/Anjali84a">
+    <img src="https://img.shields.io/badge/GitHub-Anjali84a-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/anjali84a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anjali84a-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
-<p>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" alt="Microsoft Excel" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/googlecolab" alt="Google Colab" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/git" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode" alt="VS Code" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="50" height="50"/>
-</p>
-
-### 🤖 AI & Machine Learning
-**AI Agents (Basic) • Machine Learning • OpenCV • Generative AI**
-
-
-### 🧠 Core Computer Science
-**Data Structures & Algorithms • OOP • DBMS • Computer Networks**
-
 
 ---
 
-## 🚀 Projects
+## 💫 About Me
+
+* 🎓 B.Tech Computer Science & Artificial Intelligence student at PSIT, Kanpur
+* 💻 Interested in Software Development, Data Analytics, AI and Problem Solving
+* 🧠 Solved **400+ coding problems on LeetCode**
+* 📊 Working with Python, SQL, Pandas, NumPy and Matplotlib
+* 🤖 Exploring Machine Learning, OpenCV and AI Agents
+* 🚀 Currently building **PRISM**, a traffic-signal optimization project
+* 📚 Preparing for Programmer Analyst and Software Developer fresher roles
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Anjali84a">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/anjali84a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Currently Learning
+
+* 🤖 Machine Learning & Computer Vision
+* 🧠 Generative AI & AI Agents
+* 📊 Data Analytics
+* 💻 Data Structures & Algorithms
+* ☁️ Exploring modern software development tools
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔴 PRISM – Predictive Risk Incident Software Management
 
-**Real-Time Traffic Signal Optimization**
+A real-time traffic-signal optimization project focused on improving traffic flow and reducing unnecessary waiting time.
 
-- Developed a real-time traffic-signal optimization system.
-- Used **OpenCV and Machine Learning** for traffic analysis.
-- Designed to improve traffic flow and reduce unnecessary vehicle idle time.
-- Achieved approximately **15% improvement in intersection throughput**.
-
-**Tech Stack:**  
-`Python` `OpenCV` `Machine Learning` `NumPy` `Pandas`
+**Tech:** Python • OpenCV • Machine Learning • NumPy • Pandas
 
 ---
 
 ### 📚 Library Management System
 
-**SQL-Based Library Management System**
+A SQL-based library management system developed to manage library records and perform data operations efficiently.
 
-- Built a database-driven library management system using **MySQL**.
-- Implemented **CRUD operations, constraints and stored procedures**.
-- Performed data cleaning and generated reports.
-- Created a simple **ETL pipeline** for processing data.
+**Features:**
 
-**Tech Stack:**  
-`MySQL` `SQL` `DBMS`
+* CRUD operations
+* Database constraints
+* Stored procedures
+* Data cleaning
+* Reports
+* Simple ETL pipeline
 
----
-
-## 💻 DSA & LeetCode
-
-### 🏆 400+ LeetCode Problems
-I practice Data Structures and Algorithms to improve my
-problem-solving and coding skills.
-
-**Topics I Practice:**
-
-`Arrays` `Strings` `Linked Lists` `Stacks` `Queues`  
-`Recursion` `Dynamic Programming` `Sorting` `Searching`
+**Tech:** MySQL • SQL • DBMS
 
 ---
 
-## 📈 Currently Learning
+### 🎬 Netflix Movie Analysis
 
-- Advanced SQL
-- Data Analytics
-- Machine Learning
-- Generative AI
-- AI Agents
-- Data Structures & Algorithms
+A SQL-based data analysis project exploring Netflix movies and TV shows through queries, trends and rankings.
+
+**Tech:** SQL • MySQL • CTEs • CASE WHEN • Window Functions
 
 ---
 
-## 🔗 Connect With Me
+## 💻 Languages & Tools
+
+### 👩‍💻 Programming Languages
 
 <p align="left">
-<a href="https://github.com/Anjali84a">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" height="50"/>
+</p>
 
-<a href="https://linkedin.com/in/anjali84a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🗄️ Database & SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</p>
+
+### 📊 Data & AI
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/matplotlib" width="50" height="50" alt="Matplotlib"/>
+  <img src="https://cdn.simpleicons.org/opencv" width="50" height="50" alt="OpenCV"/>
+</p>
+
+### 🌐 Web Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" height="50"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="50" height="50" alt="MySQL Workbench"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="50" height="50" alt="Microsoft Excel"/>
+  <img src="https://cdn.simpleicons.org/googlecolab" width="50" height="50" alt="Google Colab"/>
+</p>
+
+### 🧠 Core Computer Science
+
+`Data Structures & Algorithms` • `OOPs` • `DBMS` • `RDBMS` • `Computer Networks`
+
+---
+
+## 🧩 Coding & Problem Solving
+
+<p align="left">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+> Solving coding problems regularly to improve problem-solving, algorithms and coding skills.
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Artificial Intelligence**
+Pranveer Singh Institute of Technology (PSIT), Kanpur
+**2023 – Present**
+
+---
+
+## 📜 Certifications
+
+* 🟠 **Oracle** – Agentic AI Foundations
+* 🟢 **HP LIFE** – Data Science and Analytics
+* 🔵 **Microsoft** – Introduction to MS Excel
+* 🟣 **Deloitte Australia** – Data Analytics Job Simulation
+* 🟡 **Code with Harry** – Data Analytics
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjali84a&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali84a&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-Thankyou !
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:84a.anjali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-84a.anjali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/anjali84a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Chaurasia-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Anjali84a">
+    <img src="https://img.shields.io/badge/GitHub-Anjali84a-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐</i>
+</p>
+
