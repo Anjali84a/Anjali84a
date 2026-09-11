@@ -113,10 +113,6 @@ A SQL-based data analysis project exploring Netflix movies and TV shows through 
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧠 Core Computer Science
-
-`Data Structures & Algorithms` • `OOPs` • `DBMS` • `RDBMS` • `Computer Networks`
-
 ---
 
 
