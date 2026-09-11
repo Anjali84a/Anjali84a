@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anjali Chaurasia</h1>
 
 <h3 align="center">B.Tech CSE (AI) Student | Programmer Analyst Aspirant | Data & AI Enthusiast</h3>
-
 <p align="center">
   <a href="https://github.com/Anjali84a">
     <img src="https://img.shields.io/badge/GitHub-Anjali84a-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <p>
-  <a href="https://leetcode.com/u/Anjali84a/">
-    <b>🔗 Anjali84a - LeetCode Profile</b>
-  </a>
-</p>
+  
   <a href="https://linkedin.com/in/anjali84a/">
     <img src="https://img.shields.io/badge/LinkedIn-Anjali84a-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/Anjali84a/">
+    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
