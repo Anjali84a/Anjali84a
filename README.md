@@ -6,6 +6,11 @@
   <a href="https://github.com/Anjali84a">
     <img src="https://img.shields.io/badge/GitHub-Anjali84a-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <p>
+  <a href="https://leetcode.com/u/Anjali84a/">
+    <b>🔗 Anjali84a - LeetCode Profile</b>
+  </a>
+</p>
   <a href="https://linkedin.com/in/anjali84a/">
     <img src="https://img.shields.io/badge/LinkedIn-Anjali84a-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -17,7 +22,6 @@
 
 * 🎓 B.Tech Computer Science & Artificial Intelligence student at PSIT, Kanpur
 * 💻 Interested in Software Development, Data Analytics, AI and Problem Solving
-* 🧠 Solved **400+ coding problems on LeetCode**
 * 📊 Working with Python, SQL, Pandas, NumPy and Matplotlib
 * 🤖 Exploring Machine Learning, OpenCV and AI Agents
 * 🚀 Currently building **PRISM**, a traffic-signal optimization project
@@ -127,44 +131,9 @@ A SQL-based data analysis project exploring Netflix movies and TV shows through 
 
 ---
 
-## 🧩 Coding & Problem Solving
 
-<p align="left">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
-> Solving coding problems regularly to improve problem-solving, algorithms and coding skills.
 
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Artificial Intelligence**
-Pranveer Singh Institute of Technology (PSIT), Kanpur
-**2023 – Present**
-
----
-
-## 📜 Certifications
-
-* 🟠 **Oracle** – Agentic AI Foundations
-* 🟢 **HP LIFE** – Data Science and Analytics
-* 🔵 **Microsoft** – Introduction to MS Excel
-* 🟣 **Deloitte Australia** – Data Analytics Job Simulation
-* 🟡 **Code with Harry** – Data Analytics
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anjali84a&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali84a&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 📫 Contact
 
