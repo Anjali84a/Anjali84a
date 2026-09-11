@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali Chaurasia</h1>
 
-<h3 align="center">CS-AI Student | Aspiring Data Scientist | AI & Data Analytics</h3>
+<h3 align="center"> Aspiring Data Scientist | AI & Data Analytics</h3>
 <p align="center">
   <a href="https://github.com/Anjali84a">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
@@ -77,7 +77,7 @@ A SQL-based data analysis project exploring Netflix movies and TV shows through 
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
